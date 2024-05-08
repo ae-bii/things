@@ -5,7 +5,12 @@
 
 
 - [cs-stuff](#cs-stuff)
+    - [machine-learning](#machine-learning)
 - [math-stuff](#math-stuff)
+    - [general](#general-math)
+    - [algebra](#algebra)
+    - [analysis](#analysis)
+    - [game-theory](#game-theory)
 - [music](#music)
     - [drums](#drums)
     - [guitar](#guitar)
@@ -16,10 +21,26 @@
 ---
 
 ## cs-stuff
+### machine-learning
+- [stanford cs234: reinforcement learning](https://web.stanford.edu/class/cs234/)
 
 ---
 
 ## math-stuff
+### general
+- [ncatlab](https://ncatlab.org/nlab/show/HomePage)
+- [proofwiki](https://proofwiki.org/wiki/Main_Page)
+### algebra
+- [algebra: chapter 0](https://bookstore.ams.org/gsm-104)
+    - best intuition/motivation for algebra from categorial perspective
+- [an invitation to the general algebra and universal constructions](https://math.berkeley.edu/~gbergman/245/3.0.pdf)
+### analysis
+- [stein & shakarchi's real analysis](https://www.cmat.edu.uy/~mordecki/courses/medida2013/book.pdf)
+- [terry tao analysis 1](https://lms.umb.sk/pluginfile.php/111477/mod_page/content/5/TerenceTao_Analysis.I.Third.Edition.pdf)
+- [terry tao analysis 2](https://link.springer.com/book/10.1007/978-981-19-7284-3)
+### game-theory
+- [columbia ioer4530: ai, games, and markets](https://www.columbia.edu/~ck2945/courses/f23_4530/)
+
 
 ---
 
