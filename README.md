@@ -11,7 +11,7 @@
     - [guitar](#guitar)
     - [piano](#piano)
     - [trumpet](#trumpet)
-- [free-internet](#free-internet)
+- [internet-utils](#internet-utils)
 
 ---
 
@@ -49,7 +49,8 @@
 
 ---
 
-## free-internet
+## internet-utils
 - [big database](https://fmhy.net)
 - [find anything](https://start.me/p/b5Aow7/asint_collection)
 - [pdf tools](https://www.ilovepdf.com/)
+- [privacy tools](https://www.privacytools.io/)
