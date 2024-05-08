@@ -1,15 +1,17 @@
 # cool things
 
+a collection of stuff i have collected over time.
+
 ## table of contents
-
-
 
 - [cs-stuff](#cs-stuff)
     - [machine-learning](#machine-learning)
+    - [robotics](#robotics)
 - [math-stuff](#math-stuff)
     - [general](#general-math)
     - [algebra](#algebra)
     - [analysis](#analysis)
+    - [control-theory](#control-theory)
     - [game-theory](#game-theory)
 - [music](#music)
     - [drums](#drums)
@@ -23,11 +25,14 @@
 ## cs-stuff
 ### machine-learning
 - [stanford cs234: reinforcement learning](https://web.stanford.edu/class/cs234/)
+### robotics
+- [mit underactuated robotics](https://underactuated.csail.mit.edu/index.html)
 
 ---
 
 ## math-stuff
 ### general
+- [better explained: learn right, not rote](https://betterexplained.com/cheatsheet/)
 - [ncatlab](https://ncatlab.org/nlab/show/HomePage)
 - [proofwiki](https://proofwiki.org/wiki/Main_Page)
 ### algebra
@@ -38,6 +43,8 @@
 - [stein & shakarchi's real analysis](https://www.cmat.edu.uy/~mordecki/courses/medida2013/book.pdf)
 - [terry tao analysis 1](https://lms.umb.sk/pluginfile.php/111477/mod_page/content/5/TerenceTao_Analysis.I.Third.Edition.pdf)
 - [terry tao analysis 2](https://link.springer.com/book/10.1007/978-981-19-7284-3)
+### control-theory
+- [awesome control theory](https://github.com/A-make/awesome-control-theory)
 ### game-theory
 - [columbia ioer4530: ai, games, and markets](https://www.columbia.edu/~ck2945/courses/f23_4530/)
 
