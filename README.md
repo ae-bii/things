@@ -83,3 +83,4 @@ a collection of stuff i have collected over time.
 - [pdf tools](https://www.ilovepdf.com/)
 - [privacy tools](https://www.privacytools.io/)
 - [best streaming website](https://sudo-flix.lol/)
+- [if the book isn't here, it's probably not on the internet for free](https://annas-archive.org/)
