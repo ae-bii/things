@@ -82,3 +82,4 @@ a collection of stuff i have collected over time.
 - [find anything](https://start.me/p/b5Aow7/asint_collection)
 - [pdf tools](https://www.ilovepdf.com/)
 - [privacy tools](https://www.privacytools.io/)
+- [best streaming website](https://sudo-flix.lol/)
