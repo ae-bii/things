@@ -78,9 +78,8 @@ a collection of stuff i have collected over time.
 ---
 
 ## internet-utils
-- [big database](https://fmhy.net)
+- [big database of free stuff on the internet](https://fmhy.net)
 - [find anything](https://start.me/p/b5Aow7/asint_collection)
 - [pdf tools](https://www.ilovepdf.com/)
 - [privacy tools](https://www.privacytools.io/)
-- [best streaming website](https://sudo-flix.lol/)
 - [if the book isn't here, it's probably not on the internet for free](https://annas-archive.org/)
